@@ -24,5 +24,6 @@ Hasil tampilan website dapat dilihat pada laporan.
 
 ### Comparison of MySQL Workbench Database Performance 2 with MongoDB on Zoo Database
 proses ini adalah lanjutan dari sebelumnya dengan tetap menggunakan database yang sama. Tujuan dibuatnya artikel ini adalah membandingkan performa antara MySQL Workbench dan MongoDB. MySQL berbasis SQL sedangkan, MongoDB berbasis NoSQL yang dikatakan merupakan upgrade dari database SQL. Adapun yang dibandingkan adalah:
-1. UI
-2. 
+1. GUI atau tampilannya
+2. Proses melakukan CRUD
+3. query performance (membandingkan waktu pemrosesan)
